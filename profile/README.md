@@ -1,10 +1,11 @@
 ## Minecraft Public Welfare Alliance
-> 弱小的鱼，会被深邃的洋流吞没；
-> 独行的鲸，也会迷失黑暗的海底。
+> 弱小的鱼，会被深邃的洋流吞没；  
+> 独行的鲸，也会迷失黑暗的海底。  
 > 所以我们联合起来，成为更汹涌的鲸群，开辟更多的可能性！
 
 鲸群计划，旨在联合 Minecraft 公益服务器群体，成为具有较高知名度的玩家联盟。联盟内的服务器将共享受众玩家群体与管理经验、联盟创作激励等。联盟内各服还将共享黑名单。
 
+[统一通行证申请](https://docs.qq.com/form/page/DSXJaTUJhYlNMYmtm) | [联盟QQ交流群](https://qm.qq.com/q/3jN9GCDPmo)
 <!--
 
 **Here are some ideas to get you started:**
